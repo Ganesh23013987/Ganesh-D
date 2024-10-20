@@ -1,2 +1,2 @@
-# Ganesh-D
+# Ganesh.D
 Creativity makes world
